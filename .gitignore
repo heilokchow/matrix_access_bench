@@ -1,0 +1,10 @@
+*.o
+*.out
+log
+*.txt
+err
+*.jpeg
+*.xlsx
+*.RData
+*.exe
+*.jpg
